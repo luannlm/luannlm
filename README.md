@@ -1,4 +1,4 @@
-## 👋🏼 Olá! Eu me chamo Luan. Futuro Eng. de Software.
+## 👋🏼 Olá! Eu me chamo Luan, futuro engenheiro de software.
 <div>
   <a href="https://github.com/luannlm">
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=luannlm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
@@ -6,7 +6,6 @@
 </div>
   <div style="display: incline_block"><br>
   <h2>Conhecimentos</h2>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
     <img align="center" alt="Luann-HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
     <img align="center" alt="Luann-CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
     <img align="center" alt="Luann-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
